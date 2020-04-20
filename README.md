@@ -10,7 +10,7 @@ Here I use :
 * gunicorn
 ___
 
-here is the use case of this system: 
+here is the use case diagram of this system: 
  ![UseCaseDiagram](usecasediagram.png)  
 ___
 
