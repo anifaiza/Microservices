@@ -1,0 +1,12 @@
+version : '3'
+
+services:
+  
+
+        createservice: 
+                    image: microappnew:latest
+        deleteservice:
+                image: delservice:latest
+        database:  
+                 image: mongo:4.0.4      
+         
