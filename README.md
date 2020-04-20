@@ -11,6 +11,8 @@ Here I use :
 ___
 
 here is the use case of this system: 
+ ![UseCaseDiagram](usecasediagram.png)  
+___
 
 
 ##### Install Docker, if you don't already have it, then add a Dockerfile to the root directory:
