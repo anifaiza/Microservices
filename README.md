@@ -15,7 +15,8 @@ here is the use case of this system:
 
 ##### Install Docker, if you don't already have it, then add a Dockerfile to the root directory:
 Build the image :
-###### $ docker-compose build
+######
+   $ docker-compose build
 
 you can edit docker-composer.yml file with your port or any required settings for composing here. 
 
