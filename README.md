@@ -12,10 +12,13 @@ ___
 
 here is the use case diagram of this system: 
  ![UseCaseDiagram](usecasediagram.png)  
-  here "local host" will be the ip of docker like this url for creation in postman:
+___
+  here "local host" will be replace with the ip of docker like this url for creation in postman:
   ![CreateRequest](create_request.png)
   
 ___
+ here is the url for deletion in postman:
+ ![DeleteRequest](delete_request.png)
 
 
 
